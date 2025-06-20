@@ -1,0 +1,356 @@
+.shop1{  
+    width: 99%;
+    height: 100px;
+    background-image: url(modern-urban-interior-design-2500x1875.jpeg);
+}
+.shop1 img {
+    height: 60px;
+}
+.shop1 h2{
+    position: absolute;
+    top: 1%;
+    left: 6%;
+}
+.shop1 ul{
+    position: absolute;
+    left: 70%;
+    top: 3%;
+    display: flex;
+    margin: 10px;
+
+}
+.shop1 ul a{
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+.shop1 ul a:hover{
+    color: blue;
+}
+.shopimg img{
+    width: 97.7%;
+    position: absolute;
+    height: 70%; 
+}
+.shopimg h1{
+    position: absolute;
+    top:40%;
+    color: white;
+    left: 40%;
+    font-size: 50px;
+}
+.first3{
+    position: absolute;
+    top: 100%;
+}
+.first3 section{
+    display: flex;
+    margin: 20px;
+}
+.first3 ul{
+    display: flex;
+    margin: 120px;
+}
+.product01 h1{
+    position: absolute;
+    top: -10%;
+    left: 50%;
+}
+.product01 h2{
+    position: absolute;
+    top: 185%;
+    left: 20%;
+}
+.product01 img{
+    height: 350px;
+}
+.product01 p{
+    position: absolute;
+    top: 205%;
+    left: 20%;
+}
+.product02 img{
+    height: 350px;
+    position: absolute;
+    left: 150%;
+}
+.product02 h2{
+    position: absolute;
+    left: 150%;
+    top: 190%;
+    width: 150px;
+
+}
+.product02 p{
+    position: absolute;
+    left: 155%;
+    top: 205%;
+    width: 150px;
+}
+.product03 {
+    position: absolute;
+    height: 350px;
+    left: 300%;
+    margin-top: -25%;
+}
+.product03 h2{
+    position: absolute;
+    top: 115%;
+    width: 150px;
+}
+.product03 p{
+    position: absolute;
+    top: 140%;
+
+}
+.product03 img{
+    position: absolute;
+    height: 350px;
+
+}
+.second3{
+    position: absolute;
+    top: 270%;
+    width: 100%;
+    height: 100%;
+}
+.s-1 img{
+    position:absolute;
+    height: 350px;
+    left: 10%;
+    top: 2%;
+}
+.s-1 h2{
+    position: absolute;
+    top: 140%;
+    left: 9%;
+}
+.s-1 p{
+    position: absolute;
+    top: 155%;
+    left: 9%;
+}
+.s-2{
+    position: absolute;
+    left: 150%;
+    height: 350px;
+}
+.s-2 img{
+    height: 350px;
+    position: absolute;
+    left: 50%;
+    top: 2%;
+}
+.s-2 h2{
+    position: absolute;
+    top: 95%;
+    width: 150px;
+    
+}
+.s-2 p{
+    position: absolute;
+    top: 105%;
+    width: 100px;
+}
+.s-3 {
+    position: absolute;
+    left: 290%;
+    height: 350px;
+}
+.s-3 h2{
+    position: absolute;
+    top: 96%;
+    width: 200px;
+
+}
+.s-3 p{
+    position: absolute;
+    top: 105%;
+    width: 150px;
+}
+.s-3 img{
+    position: absolute;
+    height: 350px;
+    top: 2%;
+}
+.ready2{
+    position: absolute;
+    top: 300%;
+    background-color: #dadba9;
+    width: 90%;
+    background-image: url(modern-urban-interior-design-2500x1875.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.ready2 button{
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px;
+    color: grey;
+}
+.bottom{
+    position: absolute;
+    top: 280%;
+    background-color: black;
+    width: 100%;
+}
+.bottom ul{
+    position: absolute;
+    left: 40%;
+    display: flex;
+}
+.bottom ul a{
+    margin: 10px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.bottom ul a:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+.signup{
+    color: white;
+    background-color: blue;
+    border: 1px;
+    position: absolute;
+    margin-left: -160px;
+    margin-top: -3px;
+    height: 30px;
+    width: 70px;
+    border-radius: 10px;
+}
+.signup:hover{
+    cursor: pointer;
+    color: white;
+    background-color: lightblue;
+}
+.btn2:hover{
+    cursor: pointer;
+    background-color: white;
+}
+@media (min-width:600px) {
+    .signup{
+        position: absolute;
+        left: 50%;
+        top: 35%;
+    /*}.GLOW3 a .Breeze{
+        width: 170px;
+    }
+    .nav1 ul{
+        
+    }*/
+}
+    
+@media (min-width:768px){
+    .nav1 h2{
+        position: absolute;
+        left: 10%;
+    }
+    .nav1 h1{
+        color: orange;
+    }
+    .Flash{
+        position: relative;
+        top: 400%;
+
+    }
+    .mini-flash{
+        position: absolute;
+        top: 350%;
+    }
+    .intro{
+        position: absolute;
+        top: 10%;
+        left: 40%;
+
+    }
+    .intro a{
+        position: relative;
+        top: 200%;
+    }
+    .btn1{
+        position: absolute;
+        top: 60%;
+    }
+    .intro h1{
+        font-size: 50px;
+        position: absolute;
+        top: -30%;
+    }
+    .intro h3{
+        font-size: 50px;
+        position: relative;
+        top: 70%;
+        left: 100%;
+    }
+    .Breeze{
+        width: 400px;
+    }
+    .products img{
+        width: 235px;
+    }
+    .GLOW3 h2{
+        margin-top: -4px;
+    }
+    .categories{
+        position: absolute;
+        top: 280%;
+    }
+    .categories h1{
+        position: absolute;
+        top: -30%;
+        left: 30%;
+    }
+    .categories img{
+        width: 190px;
+    }
+    .urban{
+        position: absolute;
+        top: 360%;
+    }
+    .urban .left img{
+        height: 245px;
+    }
+    .urban .right h1{
+        margin-top: -240px;
+        margin-left: -40px;
+        
+    }
+    .urban .right p{
+        margin-top: -110px;
+        margin-left: -60px;
+    }
+    .popular {
+        position: absolute;
+        top: 450%;
+    }
+    .popular a img{
+        width: 235px;
+        margin: 5px;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .customers  .DC{
+        margin-top: 50px;
+    }
+    .mini-flash{
+        position: absolute;
+        top: 400%;
+
+    }
+    
+}
+/
+}
+@media (min-width:600px) {
+    .shop1 ul a{
+        position: absolute;
+        left: 30%;
+    }
+
+    
+}

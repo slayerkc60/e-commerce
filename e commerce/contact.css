@@ -1,0 +1,292 @@
+.body{
+    background-image: url();
+}
+.d1{
+  background-image: url(interior3.jfif);
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nac1 img{
+    height: 70px;
+}
+.nac1 h2{
+    position: absolute;
+    left: 7%;
+    top: 2% ;
+    color: aliceblue;
+}
+.nac1 ul{
+    position: absolute;
+    display: flex;
+    left: 70%;
+    top: 3%;
+}
+@media (min-width:500px) {
+.nac1 ul {
+        margin-left: -200px;
+    }
+    
+}
+@media (min-width:768px) {
+.nac1 ul{
+    margin-left: -200px;
+}
+.message .phoneno h2{
+    margin-right: -20px;
+}
+}
+.nac1 ul a{
+    margin: 10px;
+    text-decoration: none;
+    list-style-type: none;
+    color: tomato;
+
+}
+.nac1 ul a:hover{
+    color: aliceblue;
+}
+.connect h1{
+    color: aliceblue;
+    position: absolute;
+    left: 35%;
+    top: 30%;
+    font-size: 50px;
+}
+.input{
+    width: 600px;
+    height: 400px;
+
+}
+.input h2{
+    font-size: 60px;
+}
+.input img{
+    top: 72%;
+    width: 105%;
+    margin-top: 50px;
+}
+.input2{
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    display: block;
+    height: 682px;
+    width: 50%;
+}
+.input2 input{
+    margin: 5px;
+}
+.text1{
+    height: 40px;
+    position: absolute;
+    top: 5%;
+    width: 200px;
+}
+.text2{
+    height: 40px;
+    position: absolute;
+    top: 15%;
+    left: 0%;
+    width: 200px;
+}
+.text3{
+    height: 40px;
+    position: absolute;
+    top: 25%;
+    width: 200px;
+    left: 0%;
+}
+.text4{
+    height: 80px;
+    position: absolute;
+    top: 35%;
+    width: 300px;
+    left: 0%;
+}
+::placeholder{
+    color: lightblue;
+    margin-left: 30px;
+}
+::placeholder:hover{
+    color: red;
+    cursor: pointer;
+
+}
+input:hover{
+    cursor: pointer;
+    color: black;
+
+}
+.input2 button{
+    height: 40px;
+    width: 130px;
+    border: 1px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+}
+.input2 button:hover{
+    color: wheat;
+    cursor: pointer;
+}
+.text5{
+    position: absolute;
+    top: 60%;
+    height: 30px;
+    width: 150px;   
+}
+.bts{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    height:40px;
+    width: 80px;
+    border-radius: 20px;
+}
+.bts:hover{
+    background-color: brown;
+    cursor: pointer;
+}
+.message{
+    position: absolute;
+    top: 60%;
+    width: 45%;
+    height: 400px;
+}
+.message h1{
+    margin-top: 10px;
+}
+.message img{
+    height: 50px;
+}
+.message h2{
+    position: absolute;
+    left: 10%;
+    top: 15%;
+}
+.message p{
+    position: absolute;
+    left: 10%;
+    top: 23%;
+}
+.email{
+    margin-top: 20px;
+}
+.email h2{
+    position:absolute;
+    top: 35%;
+}
+.email p{
+    position: absolute;
+    top: 43%;
+}
+.address{
+    margin-top: 20px;
+}
+.address h2{
+    position: absolute;
+    top: 52%;
+}
+.address p{
+    position: absolute;
+    top: 60%;
+}
+.inputtext{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    height: 280px;
+    width: 50%;
+}
+.name-1{
+    position: absolute;
+    height: 25px;
+    width: 250px;
+    margin-top: -15px;
+}
+.mail{
+    position: absolute;
+    top: 30%;
+}
+.email-1{
+    position: absolute;
+    height: 25px;
+    width: 250px;
+    margin-top: -15px;
+}
+.call{
+    position: absolute;
+    top: 60%;
+}
+.phone-1{
+    position: absolute;
+    height: 25px;
+    width: 250px;
+    margin-top: -15px;
+}
+.imessage{
+    position: absolute;
+    top: 90%;
+}
+.message-1{
+    position: absolute;
+    height: 65px;
+    width: 250px;
+    margin-top: -15px;
+
+}
+.submitbtn{
+    background-color: green;
+    height: 30px;
+    width: 120px;
+    position: absolute;
+    top: 200%;
+    left: 13%;
+    border: 1px;
+    border-radius: 10px;
+}
+@media (min-width:600px) {
+
+    
+}
+@media (min-width:768px) {
+    .phoneno h2{
+        position: absolute;
+        left: 15%;
+    }
+    .phoneno p{
+        position: absolute;
+        left: 15%;
+    }
+    .email h2{
+        position: absolute;
+        left: 15%;
+    }
+    .address h2{
+        position: absolute;
+        left: 15%;
+    }
+@media (min-width:992px) {
+    .phoneno h2{
+        position: absolute;
+        left: 10%;
+    }
+    .phoneno p{
+        position: absolute;
+        left: 10%;
+    }
+    .email h2{
+        position: absolute;
+        left: 10%;
+    }
+    .address h2{
+        position: absolute;
+        left: 10%;
+    }
+}  
+
+
+    
+}
+
