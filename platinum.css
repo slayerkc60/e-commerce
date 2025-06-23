@@ -1,0 +1,300 @@
+.top{
+    background-color: white;
+}
+.top img{
+    height: 50px;
+}
+.top h2{
+    position: absolute;
+    left: 5%;
+    top: 1%;
+}
+.navigation{
+    position: absolute;
+    left: 75%;
+    top: 1%;
+}
+.navigation ul{
+  display: flex;
+}
+.navigation ul li{
+    margin: 10px;
+    list-style: none;
+}
+.navigation ul li a {
+    text-decoration: none;
+    color: tomato;
+}
+.navigation ul li a:hover{
+    cursor: pointer;
+    color: wheat;
+}
+.main1 h2{
+    position: absolute;
+    top: 7%;
+    left: 50%;
+}
+.main1 p{
+    position: absolute;
+    left: 50%;
+    top: 15%;
+}
+.main1 p span{
+    font-weight: bold;
+}
+.main1 input{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    width: 30px;
+}
+::placeholder{
+    position: absolute;
+    left: 40%;
+}
+.cart{
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    height: 25px;
+    width: 90px;
+    border-radius: 20px;
+    border: 1px;
+    color: whitesmoke;
+    background-color: green;
+}
+.cart:hover{
+    cursor: pointer;
+    background-color: darkgreen;
+}
+.cards img{
+    position: absolute;
+    left: 50%;
+    top: 65%;
+}
+.stars{
+    position: absolute;
+    left: 8%;
+    top: 135%;
+}
+.stars label{
+    color: black;
+    cursor: pointer;
+}
+.stars label:hover{
+    color: black;
+    cursor: pointer;
+}
+.stars:hover{
+    color: black;
+    cursor: pointer;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+.btnG{
+    position: absolute;
+    top: 185%;
+    height: 30px;
+    width: 80px;
+    border-radius: 20px;
+    background-color: green;
+    border: 1px;
+}
+.btnG:hover{
+    cursor: pointer;
+    color: lightgreen;
+}
+@media (min-width:768px) {
+    .navigation ul{
+        margin-left: -300px;
+    }
+    .main1 img{
+        height: 250px;
+    }
+    .main1 h2{
+        margin-left: -100px;
+    }
+    .main1 p{
+        margin-left: -100px;
+    }
+    .footer input{
+        width: 300px;
+    }
+    .cards img{
+        height: 100px;
+    }
+    .nameid{
+        width: 200px;
+
+    }
+}
+@media (min-width:992px) {
+    .main1 h2{
+    position: absolute;
+    left: 50%;
+    top: 10%;
+}
+.main1 p{
+    position: absolute;
+    left: 50%;
+    top: 15%;
+}
+.main1 img{
+    height: 500px;
+}
+.main1 p span{
+    font-weight: bold;
+}
+.main1 input{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    width: 30px;
+}
+::placeholder{
+    position: absolute;
+    left: 40%;
+
+}
+.cards img{
+    height: 100px;
+}
+.cart{
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    height: 25px;
+    width: 90px;
+    border-radius: 20px;
+    border: 1px;
+    color: whitesmoke;
+    background-color: green;
+}
+.cart:hover{
+    cursor: pointer;
+    background-color: darkgreen;
+}
+.cards img{
+    position: absolute;
+    left: 50%;
+    top: 65%;
+}
+.stars{
+    position: absolute;
+    left: 8%;
+    top: 135%;
+}
+.stars label{
+    color: black;
+    cursor: pointer;
+}
+.stars label:hover{
+    color: black;
+    cursor: pointer;
+}
+.stars:hover{
+    color: black;
+    cursor: pointer;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+.btnG{
+    position: absolute;
+    top: 185%;
+    height: 30px;
+    width: 80px;
+    border-radius: 20px;
+    background-color: green;
+    border: 1px;
+}
+.btnG:hover{
+    cursor: pointer;
+    color: lightgreen;
+    
+}
+}
+@media (min-width:992px) {
+    .main1 h2{
+    position: absolute;
+    left: 50%;
+    top: 10%;
+}
+.main1 p{
+    position: absolute;
+    left: 50%;
+    top: 15%;
+}
+.main1 img{
+    height: 500px;
+}
+.main1 p span{
+    font-weight: bold;
+}
+.main1 input{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    width: 30px;
+}
+::placeholder{
+    position: absolute;
+    left: 40%;
+
+}
+.cards img{
+    height: 100px;
+}
+.cart{
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    height: 25px;
+    width: 90px;
+    border-radius: 20px;
+    border: 1px;
+    color: whitesmoke;
+    background-color: green;
+}
+.cart:hover{
+    cursor: pointer;
+    background-color: darkgreen;
+}
+.cards img{
+    position: absolute;
+    left: 50%;
+    top: 65%;
+}
+.stars{
+    position: absolute;
+    left: 8%;
+    top: 135%;
+}
+.stars label{
+    color: black;
+    cursor: pointer;
+}
+.stars label:hover{
+    color: black;
+    cursor: pointer;
+}
+.stars:hover{
+    color: black;
+    cursor: pointer;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+.btnG{
+    position: absolute;
+    top: 185%;
+    height: 30px;
+    width: 80px;
+    border-radius: 20px;
+    background-color: green;
+    border: 1px;
+}
+.btnG:hover{
+    cursor: pointer;
+    color: lightgreen;
+    
+}
+}

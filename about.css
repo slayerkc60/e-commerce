@@ -32,6 +32,7 @@
 .na1 ul a:hover {
     cursor: pointer;
     color: aqua;
+    transition: 1s;
 
 }
 .about1 h2 {
