@@ -1,0 +1,951 @@
+.nav1{
+    background-image: url(the-lab-saigon-urban-legend---gyutan-restaurant-restaurants-archello.1702446193.9421.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:700px;
+    position: relative;
+    width: 98.7%;
+    overflow-x: hidden;
+}
+.nav1 h2{
+    position: absolute;
+    top: 2%;
+    left: 5%;
+}
+.nav1 ul{
+    position: absolute;
+    left: 60%;
+    display: flex;
+    margin: 10px;
+    top: 10px;
+    
+}
+.nav1 ul li{
+    margin: 10px;
+    list-style-type: none;
+}
+.nav1 ul a{
+    color: white;
+    text-decoration: none;
+
+}
+.nav1 ul  a:hover{
+    cursor: pointer;
+    color: blue;
+    transition: .9s;
+
+}
+.nav1 img{
+    height: 15px;
+    margin: 10px;
+    width: 20px;
+}
+.nav1 a img:hover{
+    color: blue;
+}
+.facebook{
+    border-radius: 60%;
+}
+.owlhead{
+    height: 60px;
+}
+.nav1 h1{
+    position: absolute;
+    left: -60%;
+    top: -10%;
+    font-size: 30px;
+    margin-top: 30%;
+    color: white;
+}
+.nav1 h3{
+    position: absolute;
+    left: 30%;
+    top: -85%;
+    margin-left: -120%;
+    margin-top: 50%;
+    font-size: 75px;
+    font-weight: 1500;
+    color: white;
+}
+.btn1{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin-left: -100%;
+    margin-bottom: -120%;
+    top: 1200%;
+    left: 50%;
+    height: 40px;
+    width: 120px;
+    border-radius: 30px;
+    background-color: green;
+    border: 10px;
+}
+.btn1:hover{
+    cursor: pointer;
+    background-color: rgb(75, 97, 75);
+}
+.services{
+    height: 250px;
+    width: 100%;
+}  
+.products{
+    display: flex;
+    width: 100%;
+    width: 400px;
+}
+
+.GLOW h4{
+    font-weight: lighter;
+    margin-top: -10px;
+}
+.GLOW img{
+    margin-top: 20px;
+    width: 400px;
+}
+.GLOW2 img{
+    margin-top: 20px;
+    width: 400px;
+    margin-left: 10px;
+}
+.GLOW2 h4{
+    font-weight: lighter;
+    margin-top: -10px;
+}
+.GLOW3 img{
+    margin-left: 10px;
+    width: 400px;
+    margin: 20px;
+}
+.GLOW3 h4{
+    font-weight: lighter;
+    margin-top: -10px;
+}
+.GLOW h2{
+
+}
+.mini-flash{
+    height: 350px;
+    width: 98%;
+    position: relative;
+    top: 250%;
+    background-image: url(background2.jpg);
+}
+.mini-flash h1{
+    position: absolute;
+    left: 30%;
+    font-size: 40px;
+}
+.mini-flash p{
+    position: absolute;
+    left: 30%;
+    font-size: 20px;
+    top: 30%;
+}
+.mini-flash button{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+    background-color: inherit;
+
+}
+.categories{
+  position: absolute;
+  top: 280%;   
+}
+.pictures{
+    display: flex;
+}
+.pictures img{
+    height: 300px;
+
+}
+.pictures h1{
+    font-size: 50px;
+    position: absolute;
+    left: 40%;
+    top: -20%;
+}
+.urban{
+    position: absolute;
+    top: 360%;
+    height: 500px;
+    background-color: #dadba9;
+    width: 98%;
+}
+.left img{
+    height: 450px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.right{
+    width: 98.7%;
+}
+.right h1{
+    font-size: 40px;
+    position: absolute;
+    margin-top: -100px;
+    margin-right: -50px;
+    left: 45%;
+    top: 50%;
+}
+.right p{
+    position: absolute;
+    left: 45%;
+    margin-top: -240px;
+}
+.popular{
+    position: absolute;
+    top: 460%;
+    height: 550px;
+    width: 99%;
+    display: flex;
+}
+.popular h1{
+    position: absolute;
+    left: 40%;
+    top: 10px;
+}
+.popular h2{
+    font-size:
+}
+.popular img{
+    height: 400px;
+    display: flex;
+    margin: 20px;
+
+}
+.sec img{
+    position: absolute;
+    left: 10px;
+    height: 400px;
+}
+.sec h2{
+    position: absolute;
+    top: 70%;
+
+}
+.sec h3{
+    position: absolute;
+    top: 80%;
+}
+.sec2 img{
+    position: absolute;
+    left: 30%;
+    height: 400px;
+    margin: 10px;
+}
+.sec2 h3{
+    position: absolute;
+    left: 50%;
+    top: 80%;
+}
+.sec2 h2{
+    position: absolute;
+    left: 50%;
+    top: 70%;
+}
+.sec2 h4{
+    position: absolute;
+    left: 50%;
+    top: 85%;
+}
+.products img{
+    height: 300px;
+}
+.sec3 img{
+    height: 300px;
+    position: absolute;
+    left: 70%;
+    top: 5%;
+}
+.popular section{
+    margin-top: 100px;
+}
+.product3{
+    position: absolute;
+    height: 400px;
+    top: 20%;
+}
+.all{
+    display: flex;
+
+}
+.all img{
+    height: 400px;
+    margin: 20px;
+}
+.product1{
+    position: absolute;
+    left: 10px;
+    margin-right: 10px;
+}
+.customers{
+    position: absolute;
+    top: 130%;
+    height: 450px;
+    background-color: rgb(133, 133, 72);
+    width: 98.7%;
+}
+.csection{
+    width: 98%;
+}
+.csection h1{
+    font-size: 40px;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+
+}
+.csection p{
+    position: absolute;
+    top: 30%;
+    left: 5%;
+}
+.cright{
+    position: absolute;
+    left: 60%;
+    top: 20%;
+
+}
+.cleft{
+    position: absolute;
+    left: 10%;
+    top: 30%;
+    width: 150px;
+}
+.DC{
+    position: absolute;
+    left: 60%;
+    top: 60%;
+}
+.Ready{
+    position: absolute;
+    top: 220%;
+    background-color: red;
+    height: 300px;
+    width: 98.7%;
+    background-image: url(modern-urban-interior-design-2500x1875.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(4);
+}
+.Ready h1{
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    font-size: 40px;
+
+}
+.Ready p{
+    position: absolute;
+    left: 30%;
+    top: 50%;
+}
+.Ready button{
+    position: absolute;
+    left: 45%;
+    top: 70%;
+    height: 40px;
+    width: 130px;
+    border-radius: 20px;
+    background-color: greenyellow;
+    border: 1px;
+}
+.Ready button:hover{
+    cursor: pointer;
+    color: darkgreen;
+}
+.services{
+    background-color: green;
+    width: 110px;
+   
+}
+/*shop*/
+.shop1{
+    background-color: yellow;
+    width: 99%;
+    height: 100px;
+    background-image: url(modern-urban-interior-design-2500x1875.jpeg);
+}
+.shop1 img {
+    height: 60px;
+}
+.shop1 h2{
+    position: absolute;
+    top: 1%;
+    left: 6%;
+}
+.shop1 ul{
+    position: absolute;
+    left: 70%;
+    top: 3%;
+    display: flex;
+    margin: 10px;
+
+}
+.shop1 ul a{
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+.shop1 ul a:hover{
+    color: blue;
+}
+.shopimg img{
+    width: 97.7%;
+    position: absolute;
+    height: 70%; 
+}
+.shopimg h1{
+    position: absolute;
+    top:40%;
+    color: white;
+    left: 40%;
+    font-size: 50px;
+}
+.first3{
+    position: absolute;
+    top: 100%;
+}
+.first3 section{
+    display: flex;
+    margin: 20px;
+}
+.first3 ul{
+    display: flex;
+    margin: 120px;
+}
+.product01 h1{
+    position: absolute;
+    top: -10%;
+    left: 50%;
+}
+.product01 h2{
+    position: absolute;
+    top: 185%;
+    left: 20%;
+}
+.product01 img{
+    height: 350px;
+}
+.product01 p{
+    position: absolute;
+    top: 205%;
+    left: 20%;
+}
+.product02 img{
+    height: 350px;
+    position: absolute;
+    left: 150%;
+}
+.product02 h2{
+    position: absolute;
+    left: 150%;
+    top: 190%;
+    width: 150px;
+
+}
+.product02 p{
+    position: absolute;
+    left: 155%;
+    top: 205%;
+    width: 150px;
+}
+.product03 {
+    position: absolute;
+    height: 350px;
+    left: 300%;
+    margin-top: -25%;
+}
+.product03 h2{
+    position: absolute;
+    top: 115%;
+    width: 150px;
+}
+.product03 p{
+    position: absolute;
+    top: 140%;
+
+}
+.product03 img{
+    position: absolute;
+    height: 350px;
+
+}
+.second3{
+    position: absolute;
+    top: 270%;
+    width: 100%;
+    height: 100%;
+}
+.s-1 img{
+    position:absolute;
+    height: 350px;
+    left: 10%;
+    top: 2%;
+}
+.s-1 h2{
+    position: absolute;
+    top: 140%;
+    left: 9%;
+}
+.s-1 p{
+    position: absolute;
+    top: 155%;
+    left: 9%;
+}
+.s-2{
+    position: absolute;
+    left: 150%;
+    height: 350px;
+}
+.s-2 img{
+    height: 350px;
+    position: absolute;
+    left: 50%;
+    top: 2%;
+}
+.s-2 h2{
+    position: absolute;
+    top: 95%;
+    width: 150px;
+    
+}
+.s-2 p{
+    position: absolute;
+    top: 105%;
+    width: 100px;
+}
+.s-3 {
+    position: absolute;
+    left: 290%;
+    height: 350px;
+}
+.s-3 h2{
+    position: absolute;
+    top: 96%;
+    width: 200px;
+
+}
+.s-3 p{
+    position: absolute;
+    top: 105%;
+    width: 150px;
+}
+.s-3 img{
+    position: absolute;
+    height: 350px;
+    top: 2%;
+}
+.ready2{
+    position: absolute;
+    top: 300%;
+    background-color: #dadba9;
+    width: 90%;
+    background-image: url(modern-urban-interior-design-2500x1875.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.ready2 button{
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px;
+    color: grey;
+}
+.bottom{
+    position: absolute;
+    top: 280%;
+    background-color: black;
+    width: 100%;
+}
+.bottom ul{
+    position: absolute;
+    left: 40%;
+    display: flex;
+}
+.bottom ul a{
+    margin: 10px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.bottom ul a:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+.signup{
+    color: white;
+    background-color: blue;
+    border: 1px;
+    position: absolute;
+    margin-left: -5px;
+    margin-top: -3px;
+    height: 30px;
+    width: 70px;
+    border-radius: 10px;
+}
+.signup:hover{
+    cursor: pointer;
+    color: white;
+    background-color: lightblue;
+}
+.btn2:hover{
+    cursor: pointer;
+    background-color: white;
+}
+.login{
+    position: absolute;
+    left: 130%;
+    background-color: blue;
+    color: white;
+    border: 1px;
+    height: 30px;
+    width: 70px;
+    border-radius: 10px;
+    margin-top: -1px;
+}
+.login:hover{
+    cursor: pointer;
+    color: wheat;
+    background-color: lightblue;
+
+}
+/*@media(min-width: 600px) {
+    .nav1{
+        width: 140%;
+        color: white;
+    }
+    .nav1 h2{
+        position: absolute;
+        left: 10%;
+        font-size: 15px;        
+    }
+    .nav1 h1{
+        color: red;
+        font-size: 20px;
+    }
+    .nav1 h3{
+        font-size: 65px;
+        position: absolute;
+        left: 30%;
+    }
+    .products{
+        display: flex;
+        width: 100%;
+        
+    }
+    .products a img{
+        height: 300px;
+        width: 205px;
+
+    }
+     .nav1 ul{
+        position: absolute;
+      
+        
+        
+    }
+    .GLOW3 h2{
+        position: absolute;
+        top: 160%;
+        left: 69%;
+    }
+    .GLOW3 h3{
+        position: absolute;
+        top: 165%;
+        left: 70%;
+    }
+    .GLOW3 h4{
+        position: absolute;
+        top: 175%;
+        left: 70%;
+    }
+    .GLOW2 h2{
+        position: absolute;
+        top: 160%;
+
+    }
+    .GLOW2 h3{
+        position: absolute;
+        top: 165%;
+
+    }
+    .GLOW2 h4{
+        position: absolute;
+        top: 175%;
+
+    }
+    .GLOW h2{
+        position: absolute;
+        top: 160%;
+    }
+    .GLOW p{
+        position: absolute;
+        top: 170%;
+    }
+    .GLOW h4{
+        position: absolute;
+        top: 170%;
+    }
+    .Flash .mini-flash h1{
+        position: absolute;
+        left: 20%;
+        
+    
+    }
+    .Flash .mini-flash p{
+        position: absolute;
+        left: 20%;
+    }
+    .Flash .mini-flash a .btn2{
+        position: absolute;
+        left: 30%;
+        background-color: green;
+        border: 1px;
+    }
+    .pic1 img{
+        margin-left: -110px;
+        height: 10px;
+    }
+    .pic2 img{
+        margin-left: -50px;
+    }
+    .Breeze{
+        width: 200px;
+        height: 200px;
+    }
+  
+}*/
+@media (min-width:600px) {
+    .intro h1{
+        position: absolute;
+        left: 30%;
+    }
+    .intro h3{
+        position: absolute;
+        left: 150%;
+    } 
+
+}
+@media (min-width:768px){
+    .intro h1{
+        position: absolute;
+        top: 10%;
+    }
+    .nav1 h2{
+        position: absolute;
+        left: 10%;
+    }
+    .nav1 h1{
+        color: orange;
+    }
+    .Flash{
+        position: relative;
+        top: 400%;
+    }
+    .mini-flash{
+        position: absolute;
+        top: 350%;
+    }
+    .intro{
+        position: absolute;
+        top: 10%;
+        left: 40%;
+
+    }
+    .intro a{
+        position: relative;
+        top: 200%;
+    }
+    .btn1{
+        position: absolute;
+        top: 60%;
+    }
+    .intro h1{
+        font-size: 50px;
+        position: absolute;
+        top: -30%;
+    }
+    .intro h3{
+        font-size: 50px;
+        position: relative;
+        top: 70%;
+        left: 100%;
+    }
+    .Breeze{
+        width: 400px;
+    }
+    .products img{
+        width: 235px;
+    }
+    .GLOW3 h2{
+        margin-top: -4px;
+    }
+    .categories{
+        position: absolute;
+        top: 280%;
+    }
+    .categories h1{
+        position: absolute;
+        top: -5%;
+        left: 30%;
+    }
+    .categories img{
+        width: 190px;
+    }
+    .urban{
+        position: absolute;
+        top: 360%;
+    }
+    .urban .left img{
+        height: 245px;
+    }
+    .urban .right h1{
+        margin-top: -240px;
+        margin-left: -40px;
+        
+    }
+    .urban .right p{
+        margin-top: -110px;
+        margin-left: -60px;
+    }
+    .popular {
+        position: absolute;
+        top: 450%;
+    }
+    .popular h1{
+        margin-top: 40px;
+    }
+    .popular a img{
+        width: 235px;
+        margin: 5px;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .customers  .DC{
+        margin-top: 50px;
+    }
+    .mini-flash{
+        position: relative;
+        top: 400%;
+
+    }
+    .shop1 ul{
+        margin-left: -300px;
+    }
+    .shopimg h1{
+        margin-left: -150px;
+    }
+    .first3 .product01 a img{
+        height: 200px;
+    }
+    .product01 h2{
+        margin-top: -120px;
+        margin-left: -20px;
+    }
+    .product01 p{
+        margin-top: -110px;
+        margin-left: -20px;
+    }
+    .first3 h1{
+        margin-top: -250px;
+        font-size: 50px;
+    }
+    .first3 .product02 a img{
+        height: 200px;
+        position: absolute;
+        left: 100%;
+    }
+    .product02 h2{
+        margin-top: -130px;
+        margin-left: -120px;
+    }
+    .product02 p{
+        margin-top: -130px;
+        margin-left: -120px;
+    }
+    .product03 a img{
+        height: 200px;
+        margin-left: -300px;
+    }
+    .product03 h2{
+        margin-top: -130px;
+        margin-left: -270px;
+        width: 150px;
+    }
+    .product03 p{
+        margin-top: -130px;
+        margin-left: -270px;
+    }
+    .s-1 a img{
+        height: 200px;
+        margin-top: -200px;
+    }
+    .s-1 h2{
+        margin-top: -320px;
+        margin-left: 10px;
+    }
+    .s-1 p{
+        margin-top: -320px;
+        margin-left: 5px;
+    }
+    .s-2 a img{
+        height: 200px;
+        margin-top: -200px;
+        margin-left: -150px;
+    }
+    .s-2 h2{
+        margin: -320px;
+        margin-left: -150px;
+    }
+    .s-2 p{
+        margin-top: -320px;
+        margin-left: -150px;
+    }
+    .s-3 img{
+        height: 200px;
+        margin-top: -200px;
+        margin-left: -270px;
+    }
+    .s-3 h2{
+        margin-top: -320px;
+        margin-left: -260px;
+    }
+    .s-3 p{
+        margin-top: -320px;
+        margin-left: -250px;
+    }
+    .ready2{
+        margin-top: -250px;
+    }
+    .top a{
+       margin-top: -250px;
+
+    }
+    .Ready h1{
+        margin-top: -10px;
+    }
+}
+@media (min-width:992px) {
+    .intro h1{
+        position: absolute;
+        left: -30%;
+    }
+    .products img{
+        width: 390px;
+    }
+    .popular section img{
+        width: 400px;
+    }
+    .categories img{
+        width: 300px;
+    }
+}
+

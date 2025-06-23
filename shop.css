@@ -27,6 +27,7 @@
 }
 .shop1 ul a:hover{
     color: blue;
+    transition: .5s;
 }
 .shopimg img{
     width: 97.7%;
